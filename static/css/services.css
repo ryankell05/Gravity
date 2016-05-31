@@ -3,7 +3,7 @@
 	position: relative;
     background: #000 url("../img/main.jpeg") center center;
     width: 100%;
-    height: 70%;
+    height: 100%;
     background-size: cover;
     overflow: hidden;
 }
