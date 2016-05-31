@@ -13,3 +13,8 @@
     background-size: cover;
     -o-background-size: cover;
  }
+
+ li
+ {
+ 	font-size: 20px;
+ }
