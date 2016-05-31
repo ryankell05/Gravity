@@ -1,7 +1,9 @@
 #jumbo 
 {
-	width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(../img/main.jpeg) no-repeat center center scroll;
+	position: relative;
+    background: #000 url("../img/main.jpeg") center center;
+    width: 100%;
+    height: 70%;
+    background-size: cover;
+    overflow: hidden;
 }
